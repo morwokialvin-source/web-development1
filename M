@@ -1,3 +1,1 @@
-img{
-            color: red;
-        }
+http://dandevs.netlify.app/
