@@ -1,0 +1,16 @@
+body{
+            background-color: rgb(249, 247, 247);
+            display: flex;
+        }
+        div{
+            border: 2px solid black;
+            width: 290px;
+            margin: 5px;
+            height: 370px;
+        }
+         u{
+           font-size: smaller;
+        }
+        h2{
+            background-color: forestgreen;
+        }

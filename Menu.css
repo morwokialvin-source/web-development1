@@ -1,0 +1,23 @@
+
+.third{
+     border: 2px solid black;
+            margin: 5px;
+}
+.fourth{
+     border: 2px solid black;
+            margin: 5px;
+}
+h1{
+    color: black;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+.pics{
+     border: 2px solid black;
+      display: flex;
+}
+h1{
+    color: red;
+}

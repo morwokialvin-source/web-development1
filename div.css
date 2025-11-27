@@ -1,0 +1,11 @@
+body{
+    display: flex;
+}
+div{
+    border: 2px solid black;
+    width: 250px;
+    margin: 5px;
+}
+hi{
+    color:blue;
+}
