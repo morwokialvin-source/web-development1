@@ -29,4 +29,4 @@ Some projects may have their own README or instructions on how to run them.
 ## 🙌 Acknowledgements
 Special thanks to **Code Yetu** and our instructors for the support and guidance throughout the learning journey.
 # reach out
-you can reach me out through my email morwokialvin@g.mail
+you can reach me out through my email morwokialvin@gmail.com
